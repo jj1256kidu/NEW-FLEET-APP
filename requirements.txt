@@ -1,0 +1,10 @@
+fleet-dashboard/
+├── app.py
+├── components/
+│   ├── map_visualization.py
+│   ├── metrics.py
+│   ├── charts.py
+│   └── navigation.py
+├── data/
+│   └── demo_data.py
+└── requirements.txt 
